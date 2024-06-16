@@ -1,0 +1,18 @@
+ $bg-color:red;
+$text-color:yellow;
+
+.green-class{
+color:$text-color;
+background-color: $bg-color;
+outline: none;
+padding: 7px,15px;
+font-size: 25px;
+}
+
+// .green-class {
+//     color: red;
+//     background-color:green;
+//     outline: none;
+//     padding: 7px, 15px;
+//     font-size: 25px;
+// }
